@@ -57,7 +57,7 @@ You use the enigma device to send a coded signal.  Allied forces recognize your 
 
 :: start [start] {"position":"475.5,51.5","size":"100,100"}
 <p class = "centered">
-<img src = "https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/9268f271-18a0-43c8-9e56-0e8fe114b37c" class = "pic2x3">
+<img src = "submarine.jpg" class = "pic2x3">
 </p>
 
 (set: $counter = 0)
