@@ -6,5 +6,10 @@ know that the device can be found on submarines.
 
 You can play the game online [here](https://twopiharris.github.io/Enigma/)  
 
+<img src = "submarine.jpg"
+     alt = "submarine"
+     width = 300px
+     height = 200px />
+     
 
 Good luck!  
